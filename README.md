@@ -1,0 +1,2 @@
+# Hands-on-VPN-Tunneling-IPsec-OpenVPN-WireGuard-Bluetooth-Wireless-Forensics-CTF-Labs-SecByte-Index
+A practical collection of cybersecurity CTF labs covering virtual private network (VPN) technologies (IPsec IKE, OpenVPN config drift, WireGuard routing, split-tunneling traffic analysis, authentication deep dives) and wireless/Bluetooth security (BlueEcho forensics, silent peripheral pairing attacks, BLE beacon tracking).
